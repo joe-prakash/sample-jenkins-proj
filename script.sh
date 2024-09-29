@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Jenkins project file"
+echo "Jenkins project file" > output.txt
